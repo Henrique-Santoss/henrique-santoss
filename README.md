@@ -2,8 +2,8 @@
 
 <div>
  <a href="https://github.com/Henrique-Santoss">
- <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Henrique-Santoss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
- <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Santoss&layout=compact&langs_count=6&theme=tokyonight"/>
+ <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Henrique-Santoss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Santoss&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
  
 ## Habilidades e Competências
